@@ -1,0 +1,1 @@
+gem "rack-cache", "~> 1.2"
